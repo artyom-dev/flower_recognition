@@ -1,0 +1,9 @@
+2022-06-12 19:12:55,775 INFO    MainThread:13512 [internal.py:wandb_internal():90] W&B internal server running at pid: 13512, started at: 2022-06-12 19:12:55.775821
+2022-06-12 19:12:55,776 INFO    WriterThread:13512 [datastore.py:open_for_write():75] open: C:\Users\USER\Desktop\Task\wandb\run-20220612_191254-3hye689g\run-3hye689g.wandb
+2022-06-12 19:12:55,778 DEBUG   SenderThread:13512 [sender.py:send():235] send: header
+2022-06-12 19:12:56,785 WARNING MainThread:13512 [internal.py:is_dead():387] Internal process exiting, parent pid 16024 disappeared
+2022-06-12 19:12:56,785 ERROR   MainThread:13512 [internal.py:wandb_internal():149] Internal process shutdown.
+2022-06-12 19:12:57,799 INFO    HandlerThread:13512 [handler.py:finish():806] shutting down handler
+2022-06-12 19:12:57,799 INFO    SenderThread:13512 [sender.py:finish():1111] shutting down sender
+2022-06-12 19:12:57,799 INFO    WriterThread:13512 [datastore.py:close():279] close: C:\Users\USER\Desktop\Task\wandb\run-20220612_191254-3hye689g\run-3hye689g.wandb
+2022-06-12 19:12:57,799 INFO    MainThread:13512 [internal.py:handle_exit():80] Internal process exited
